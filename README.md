@@ -1,6 +1,8 @@
 # LD-lab BioInfo wiki   
 Home page: http://www.leidailab.cn
 
+* [Server Usage](https://github.com/Junyu25/LD-lab/blob/master/Server-Usage.ipynb)
+
 * [conda Env SetUp](https://github.com/Junyu25/LD-lab/blob/master/conda-env.ipynb)
 
 * [Demultiplex Guide](https://github.com/Junyu25/LD-lab/blob/master/Demultiplex.ipynb)
