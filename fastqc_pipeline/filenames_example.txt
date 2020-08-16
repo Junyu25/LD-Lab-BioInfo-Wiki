@@ -1,0 +1,17 @@
+FastQ_files	sample_name	genotype	pregnenolone_treated	Group
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_Ctr-MO_D1.R1.fastq.gz	Sample_Ctr-MO_D1.R1	control	no	Ctrl_DMSO
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_Ctr-MO_D2.R1.fastq.gz	Sample_Ctr-MO_D2.R1	control	no	Ctrl_DMSO
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_Ctr-MO_D3.R1.fastq.gz	Sample_Ctr-MO_D3.R1	control	no	Ctrl_DMSO
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_Ctr-MO_D4.R1.fastq.gz	Sample_Ctr-MO_D4.R1	control	no	Ctrl_DMSO
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_Ctr-MO_PN1.R1.fastq.gz	Sample_Ctr-MO_PN1.R1	control	yes	Ctrl_PN
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_Ctr-MO_PN2.R1.fastq.gz	Sample_Ctr-MO_PN2.R1	control	yes	Ctrl_PN
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_Ctr-MO_PN3.R1.fastq.gz	Sample_Ctr-MO_PN3.R1	control	yes	Ctrl_PN
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_Ctr-MO_PN4.R1.fastq.gz	Sample_Ctr-MO_PN4.R1	control	yes	Ctrl_PN
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_PXR-MO_D1.R1.fastq.gz	Sample_PXR-MO_D1.R1	PXR	no	PXR_DMSO
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_PXR-MO_D2.R1.fastq.gz	Sample_PXR-MO_D2.R1	PXR	no	PXR_DMSO
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_PXR-MO_D3.R1.fastq.gz	Sample_PXR-MO_D3.R1	PXR	no	PXR_DMSO
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_PXR-MO_D4.R1.fastq.gz	Sample_PXR-MO_D4.R1	PXR	no	PXR_DMSO
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_PXR-MO_PN1.R1.fastq.gz	Sample_PXR-MO_PN1.R1	PXR	yes	PXR_PN
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_PXR-MO_PN2.R1.fastq.gz	Sample_PXR-MO_PN2.R1	PXR	yes	PXR_PN
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_PXR-MO_PN3.R1.fastq.gz	Sample_PXR-MO_PN3.R1	PXR	yes	PXR_PN
+/restricted/projectnb/montilab-p/projects/superfund/project5/RNASeq/raw/Sample_PXR-MO_PN4.R1.fastq.gz	Sample_PXR-MO_PN4.R1	PXR	yes	PXR_PN

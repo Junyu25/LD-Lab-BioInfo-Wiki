@@ -1,0 +1,40 @@
+
+#########################################################################################################
+# Standard parameters
+#########################################################################################################
+
+#working directory where a results and report directory will be created
+working_dir	    =	  /home/yxtan/final_fq_test/
+
+#file that contains 2 or 3 columns with fastq | [fastq2]  | stub
+raw_filenames	  =	   /home/yxtan/final_fq_test/sample_table.txt
+
+#Does the raw_filenames file have a header?
+raw_file_header =    TRUE
+
+#paired end reads?
+paired	        =    FALSE
+
+#start pipeline from scratch or try to pick up at the last step that was performed successfully
+clean_run       =    FALSE
+
+#directory that contains all the python scripts
+scripts_dir	    = 	 /home/yxtan/fastqc_pipeline/
+
+#should everything also be printed on the command line
+verbose         =    TRUE
+
+#chose the aligner
+aligner = tophat     #right now only 'skip' and 'tophat' are allowed; but it is not used at all in fastqc pipeline
+
+############################################################################################################################################
+#FAST QC
+############################################################################################################################################
+fastqc_exec      =      	/home/hrzhang/software/FastQC/fastqc   
+
+
+#########################################################################################################
+# QSUB parameters
+############################################################################################################################################
+run_single_cpu = TRUE         #in case you have nothing to do for the next 2 month or so give this option a try!!
+
