@@ -8,7 +8,7 @@
     - [数据拆分教程](DataSplit.ipynb)
     - [QIIME2-Pipeline_old](QIIME2-Pipeline.ipynb)
 ## WGS
-  - [WGS单菌全基因组教程](https://github.com/LD-Lab/WGS-Pipeline)
+  - [WGS单菌全基因组教程](https://github.com/LD-Lab/WGS-Pipeline)1
   - []
 
 ## Transcriptomics
